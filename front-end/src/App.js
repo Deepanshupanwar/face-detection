@@ -139,7 +139,7 @@ const requestOptions = {
     method: 'POST',
     headers: {
         'Accept': 'application/json',
-        'Authorization': 'Key ' + '8824b24084fd4b6fa35edd9be0c7ce72'
+        'Authorization': 'Key'
     },
     body: raw
 };
